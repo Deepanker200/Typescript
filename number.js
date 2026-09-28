@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var num1 = 10;
 // let num2:number=30 same global scope
 var num2 = 30;
@@ -16,3 +17,4 @@ console.log(item + +item2);
 var data = 30;
 data = "Deepanker";
 console.log(data);
+//# sourceMappingURL=number.js.map

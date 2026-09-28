@@ -1,0 +1,1 @@
+var data1:string="Typescript Output folder"

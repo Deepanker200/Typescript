@@ -8,7 +8,7 @@ function loopfunction() {
 function simple() {
     console.log("simple");
 }
-//Important Use Case
+//*Important Use Case
 // type Status = "success" | "error" | "loading";
 // function handleStatus(status: Status): string {
 //     switch (status) {

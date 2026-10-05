@@ -9,7 +9,7 @@ function simple(){
     console.log("simple");
 }
 
-//Important Use Case
+//*Important Use Case
 
 // type Status = "success" | "error" | "loading";
 

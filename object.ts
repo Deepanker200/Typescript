@@ -32,7 +32,7 @@
 
 
 
-//Any key-value data-type object
+//*IMP: Any key-value data-type object
 // var userData:{
 //     [key:string]:string | number | undefined
 // }={

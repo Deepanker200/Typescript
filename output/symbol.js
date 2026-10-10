@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var sym = Symbol();
 var sym2 = Symbol();
 var sym3 = Symbol();
@@ -10,4 +8,5 @@ const obj = {
     name: "Deepanker Tiwari"
 };
 console.log(obj[dId]);
+export {};
 //# sourceMappingURL=symbol.js.map

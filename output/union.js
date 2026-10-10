@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function fruitsData(item) {
     if (item > 1) {
         return ["Apple", "Mango", "Grapes"];
@@ -9,4 +7,5 @@ function fruitsData(item) {
     }
 }
 console.log(fruitsData(6));
+export {};
 //# sourceMappingURL=union.js.map

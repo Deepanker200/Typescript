@@ -1,4 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var ts = "Deepanker Tiwari";
+export {};
 //# sourceMappingURL=tsctest1.js.map

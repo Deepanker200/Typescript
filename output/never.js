@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function loopfunction() {
     while (true) {
         console.log("loop");
@@ -8,6 +6,7 @@ function loopfunction() {
 function simple() {
     console.log("simple");
 }
+export {};
 //*Important Use Case
 // type Status = "success" | "error" | "loading";
 // function handleStatus(status: Status): string {

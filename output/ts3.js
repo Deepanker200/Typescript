@@ -1,4 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var data1 = "Typescript Output folder";
+export {};
 //# sourceMappingURL=ts3.js.map

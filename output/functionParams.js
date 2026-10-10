@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function totalPrice(item, price, text) {
     if (text) {
         console.log(text, price * item);
@@ -14,4 +12,5 @@ function simple(data) {
     console.log(data);
 }
 simple("Deep");
+export {};
 //# sourceMappingURL=functionParams.js.map

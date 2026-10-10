@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var str = "Hello World";
 var str2 = 'Hello Duniya';
 var years = 2;
@@ -12,4 +10,5 @@ var data2 = num.toString();
 var boolData = true;
 var data = "" + boolData;
 var b = false;
+export {};
 //# sourceMappingURL=string.js.map

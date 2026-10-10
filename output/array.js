@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 //1st way
 var users = ['deep', 'shubh', 'bhavik'];
 var marks = [100, 30, 90];
@@ -16,4 +14,5 @@ var cities1 = ['Delhi', 'Mumbai', "Uttrakhand"];
 var cities2 = ['Jaipur', 'Panaji', "Assam"];
 console.log(cities1);
 console.log(cities2);
+export {};
 //# sourceMappingURL=array.js.map

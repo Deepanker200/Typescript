@@ -1,4 +1,3 @@
-"use strict";
 //Simple Object
 // var userData:{
 //     name:string,
@@ -9,7 +8,6 @@
 //     age:23,
 //     city:"Delhi"
 // }
-Object.defineProperty(exports, "__esModule", { value: true });
 var userData = {
     name: "Deep",
     age: 30
@@ -19,4 +17,5 @@ userData.address = {
 };
 userData.address.state = "Delhi";
 console.log(userData);
+export {};
 //# sourceMappingURL=object.js.map

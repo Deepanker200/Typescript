@@ -9,6 +9,7 @@ class Product {
         this.price = price;
         this.pId = pId;
     }
+    //This function syntax can only be used inside Class 
     addToCart() {
         this.inCart = true;
     }

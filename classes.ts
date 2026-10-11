@@ -11,6 +11,8 @@ class Product {
         this.pId = pId
     }
 
+
+    //This function syntax can only be used inside Class 
     addToCart(): void {
         this.inCart = true
     }

@@ -4,7 +4,7 @@ interface CollegeDataType {
     getStudentList():string[]
 }
 
-
+//Class implementing Interface
 class CollegeData implements CollegeDataType {
     name: string    //Declares the class property(Declaration)
 

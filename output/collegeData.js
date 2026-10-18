@@ -1,3 +1,4 @@
+//Class implementing Interface
 class CollegeData {
     name; //Declares the class property(Declaration)
     constructor(cName) {

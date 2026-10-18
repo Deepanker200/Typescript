@@ -10,6 +10,7 @@
     "moduleResolution": "bundler",
     "target": "esnext",
     "types": [],
+    "experimentalDecorators": true,
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],

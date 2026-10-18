@@ -1,5 +1,7 @@
 type dataType={name:string,email:string}
 
+
+//It is also known as Type Aliases
 var empData:dataType={
     name:"Deep",
     email:"deep@gmail.com"

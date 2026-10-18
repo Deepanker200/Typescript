@@ -1,3 +1,4 @@
+//It is also known as Type Aliases
 var empData = {
     name: "Deep",
     email: "deep@gmail.com"
